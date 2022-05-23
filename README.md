@@ -4,6 +4,8 @@ It has been modified to include:
 - [eslint](https://eslint.org/)
 - [prettier](https://prettier.io/)
 - [chakra-ui](https://chakra-ui.com/)
+- [husky](https://yarnpkg.com/package/husky)
+- [lint-staged](https://yarnpkg.com/package/lint-staged)
 
 ## Getting Started
 
